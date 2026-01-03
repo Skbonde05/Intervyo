@@ -11,12 +11,12 @@ import {
 } from 'lucide-react';
 
 // Import components (you'll need to create these)
-import ScoreCard from '../components/results/ScoreCard';
-import PerformanceChart from '../components/results/PerformanceChart';
-import CategoryBreakdown from '../components/results/CategoryBreakdown';
-import DetailedFeedback from '../components/results/DetailedFeedback';
-import ImprovementPlan from '../components/results/ImprovementPlan';
-import QuestionAnalysis from '../components/results/QuestionAnalysis';
+import ScoreCard from '../components/Results/ScoreCard';
+import PerformanceChart from '../components/Results/PerformanceChart';
+import CategoryBreakdown from '../components/Results/CategoryBreakdown';
+import DetailedFeedback from '../components/Results/DetailedFeedback';
+import ImprovementPlan from '../components/Results/ImprovementPlan';
+import QuestionAnalysis from '../components/Results/QuestionAnalysis';
 import CertificateSection from '../components/Results/CertificateSection';
 
 const Results = () => {
